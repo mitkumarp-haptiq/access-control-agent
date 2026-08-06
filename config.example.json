@@ -1,0 +1,20 @@
+{
+  "site": "haptiq.atlassian.net",
+  "cloudId": "...",
+  "jira": {
+    "projectKey": "XXX"
+  },
+  "confluence": {
+    "spaceKey": "XX1",
+    "parentPageId": "0000000000",
+    "referencePageUrl": "https://haptiq.atlassian.net/wiki/spaces/XX1/pages/..."
+  },
+  "reviewerAccountId": "000000:00000000-0000-0000-0000-000000000000",
+  "labels": {
+    "grant": "Access",
+    "removal": "accessRevoke",
+    "grantDone": "accessAdded",
+    "removalDone": "accessRevoked"
+  },
+  "skipStatuses": ["Backlog"]
+}
